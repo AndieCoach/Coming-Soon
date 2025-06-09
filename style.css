@@ -1,12 +1,8 @@
-/*!
- * forbetterweb.com - Classic Cover – One Page Websites (html, bootstrap)
- */
-
 /* Links */
 a,
 a:focus,
 a:hover {
-  color: #fff;
+  color: #fae6ff;
   transition: 0.2s;
   -moz-transition: 0.2s;s
   -webkit-transition: 0.2s;
@@ -23,10 +19,10 @@ a:hover {
 .btn-default,
 .btn-default:hover,
 .btn-default:focus {
-  color: #fff;
+  color: #fae6ff;
   text-shadow: none;
   background-color: transparent;
-  border: 1px solid #fff;
+  border: 1px solid #693e73;
   border-radius: 2px;
 }
 
